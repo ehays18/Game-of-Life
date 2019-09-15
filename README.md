@@ -9,4 +9,4 @@ The rules of the game:
   3. A 'living' cell with fewer than two 'neighbors' dies due to underpopulation.
   4. A 'non-living' cell with exactly three 'neighbors' comes to life in the next generation.
   
-Unless a seed file is given, the program asks the user to give a percentage of the cells in the grid to begin as living. After given a percentage, the program picks positions of the allotted percentage of cells randomly across the grid. 
+Unless a seed file is given, the program asks the user to give a percentage of the cells in the grid to begin as living. After given a percentage, the program picks positions of the allotted percentage of cells randomly across the grid. The simulation then begins, and the user can watch as the state of the grid moves toward a stable state. 
